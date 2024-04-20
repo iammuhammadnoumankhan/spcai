@@ -5,7 +5,7 @@
   "source": "@site/docs/02-hpc-tutorials/03-important-environment-variables/cpath.md",
   "sourceDirName": "02-hpc-tutorials/03-important-environment-variables",
   "slug": "/hpc-tutorials/important-environment-variables/cpath",
-  "permalink": "/docs/hpc-tutorials/important-environment-variables/cpath",
+  "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/cpath",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "CMAKE_PREFIX_PATH",
-    "permalink": "/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path"
+    "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path"
   },
   "next": {
     "title": "JAVA_HOME",
-    "permalink": "/docs/hpc-tutorials/important-environment-variables/java-home"
+    "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/java-home"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/04-chronolog/01-index.md",
   "sourceDirName": "04-chronolog",
   "slug": "/chronolog/index",
-  "permalink": "/docs/chronolog/index",
+  "permalink": "/spcai/docs/chronolog/index",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Frequently Asked Questions",
-    "permalink": "/docs/hermes/faq"
+    "permalink": "/spcai/docs/hermes/faq"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/docs/jarvis/jarvis-util/index"
+    "permalink": "/spcai/docs/jarvis/jarvis-util/index"
   }
 }

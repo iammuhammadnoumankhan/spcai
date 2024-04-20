@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/research/projects/dayu",
+  "permalink": "/spcai/research/projects/dayu",
   "source": "@site/src/pages/research/projects/dayu.mdx",
   "title": "DaYu: Optimizing Workflow Performance by Elucidating Semantic Data Flow",
   "description": "Distributed scientific workflows nowadays face challenges in data movement through storage systems.",

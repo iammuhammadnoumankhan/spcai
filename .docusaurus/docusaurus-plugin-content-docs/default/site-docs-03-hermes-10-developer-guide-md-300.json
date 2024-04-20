@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/10-developer-guide.md",
   "sourceDirName": "03-hermes",
   "slug": "/hermes/developer-guide",
-  "permalink": "/docs/hermes/developer-guide",
+  "permalink": "/spcai/docs/hermes/developer-guide",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Containers",
-    "permalink": "/docs/hermes/containers"
+    "permalink": "/spcai/docs/hermes/containers"
   },
   "next": {
     "title": "Doxygen",
-    "permalink": "/docs/hermes/doxygen"
+    "permalink": "/spcai/docs/hermes/doxygen"
   }
 }

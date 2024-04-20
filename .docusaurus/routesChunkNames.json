@@ -1,12 +1,12 @@
 {
-  "/about-88a": {
+  "/spcai/about-281": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "c9f32de9"
   },
-  "/blog-3f1": {
+  "/spcai/blog-624": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "2b30e33b"
@@ -26,16 +26,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "28f9879c"
   },
-  "/blog/archive-cc3": {
+  "/spcai/blog/archive-06a": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "2b30e33b"
     },
-    "archive": "b2f554cd"
+    "archive": "48bb81a2"
   },
-  "/blog/first-blog-post-997": {
+  "/spcai/blog/first-blog-post-673": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "2b30e33b"
@@ -43,7 +43,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-df7": {
+  "/spcai/blog/long-blog-post-e4c": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "2b30e33b"
@@ -51,7 +51,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-07f": {
+  "/spcai/blog/mdx-blog-post-ce0": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "2b30e33b"
@@ -59,15 +59,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-9c8": {
+  "/spcai/blog/tags-7ac": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "2b30e33b"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "4f2952b4"
   },
-  "/blog/tags/docusaurus-7be": {
+  "/spcai/blog/tags/docusaurus-e35": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "2b30e33b"
@@ -87,10 +87,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "d08d9864",
+    "listMetadata": "a34f71b3"
   },
-  "/blog/tags/facebook-ff5": {
+  "/spcai/blog/tags/facebook-473": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "2b30e33b"
@@ -101,10 +101,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "56672e98",
+    "listMetadata": "92bdf71a"
   },
-  "/blog/tags/hello-5a0": {
+  "/spcai/blog/tags/hello-4b5": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "2b30e33b"
@@ -118,10 +118,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "25facb86",
+    "listMetadata": "4d1e294f"
   },
-  "/blog/tags/hola-539": {
+  "/spcai/blog/tags/hola-427": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "2b30e33b"
@@ -132,10 +132,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "6dcb7354",
+    "listMetadata": "8b4a7c85"
   },
-  "/blog/welcome-99e": {
+  "/spcai/blog/welcome-027": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "2b30e33b"
@@ -143,437 +143,437 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/contact-f01": {
+  "/spcai/contact-75a": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "bb9046c3"
   },
-  "/jobs/-74f": {
+  "/spcai/jobs/-5e4": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "2ede842c"
   },
-  "/jobs/postdoc-745": {
+  "/spcai/jobs/postdoc-826": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "24969e49"
   },
-  "/jobs/software-engineer-5b4": {
+  "/spcai/jobs/software-engineer-b4f": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "cb5a49d7"
   },
-  "/members-834": {
+  "/spcai/members-55d": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "d1dd20e5"
   },
-  "/network-8ca": {
+  "/spcai/network-5c3": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "96ff4131"
   },
-  "/publications-c4a": {
+  "/spcai/publications-51e": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "efcf2c8f"
   },
-  "/research/patents-b1d": {
+  "/spcai/research/patents-daa": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "dccb6fa9"
   },
-  "/research/projects/-8fa": {
+  "/spcai/research/projects/-2dd": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "a139a58c"
   },
-  "/research/projects/chronolog-e26": {
+  "/spcai/research/projects/chronolog-298": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "585f8265"
   },
-  "/research/projects/coeus-d02": {
+  "/spcai/research/projects/coeus-a22": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "3d700513"
   },
-  "/research/projects/dayu-d99": {
+  "/spcai/research/projects/dayu-695": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "5b959513"
   },
-  "/research/projects/dtio-b04": {
+  "/spcai/research/projects/dtio-fad": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "02f92169"
   },
-  "/research/projects/hermes-6b8": {
+  "/spcai/research/projects/hermes-285": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "90873c47"
   },
-  "/research/projects/iris-d10": {
+  "/spcai/research/projects/iris-e96": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "760a40a8"
   },
-  "/research/projects/labios-4d5": {
+  "/spcai/research/projects/labios-22d": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "28636868"
   },
-  "/research/projects/viper-a7b": {
+  "/spcai/research/projects/viper-0e9": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "3117b6fa"
   },
-  "/research/projects/wisio-0ab": {
+  "/spcai/research/projects/wisio-464": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "139e27b9"
   },
-  "/resources/hardware-overview-332": {
+  "/spcai/resources/hardware-overview-f33": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "26613e0a"
     },
     "content": "f5f9da15"
   },
-  "/docs-680": {
+  "/spcai/docs-277": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "5bb971f5"
     }
   },
-  "/docs-fa1": {
+  "/spcai/docs-0a3": {
     "__comp": "a7bd4aaa",
     "version": "935f2afb"
   },
-  "/docs-9b3": {
+  "/spcai/docs-f92": {
     "__comp": "a94703ab"
   },
-  "/docs/ares/ares-user-guide-32f": {
+  "/spcai/docs/ares/ares-user-guide-9c7": {
     "__comp": "17896441",
     "content": "585f2184"
   },
-  "/docs/ares/faq-b1f": {
+  "/spcai/docs/ares/faq-e56": {
     "__comp": "17896441",
     "content": "bb8f0170"
   },
-  "/docs/category/ares-research-cluster-394": {
+  "/spcai/docs/category/ares-research-cluster-9d7": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9a6add40"
+    "categoryGeneratedIndex": "f53e7cab"
   },
-  "/docs/category/c-introduction-79e": {
+  "/spcai/docs/category/c-introduction-297": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2eca2ed0"
+    "categoryGeneratedIndex": "c7fe62e3"
   },
-  "/docs/category/hermes-ebd": {
+  "/spcai/docs/category/hermes-d5f": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e5ceba65"
+    "categoryGeneratedIndex": "c7d99924"
   },
-  "/docs/category/important-environment-variables-6b9": {
+  "/spcai/docs/category/important-environment-variables-065": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "9d78ffa8"
+    "categoryGeneratedIndex": "5226ceef"
   },
-  "/docs/category/installing-hpc-software-02f": {
+  "/spcai/docs/category/installing-hpc-software-a8b": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "d09c4fac"
+    "categoryGeneratedIndex": "0645a83b"
   },
-  "/docs/category/linux-introduction-142": {
+  "/spcai/docs/category/linux-introduction-957": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "134475a2"
+    "categoryGeneratedIndex": "e6c39355"
   },
-  "/docs/chronolog/index-024": {
+  "/spcai/docs/chronolog/index-36a": {
     "__comp": "17896441",
     "content": "747bc699"
   },
-  "/docs/hermes/adapters-449": {
+  "/spcai/docs/hermes/adapters-fb6": {
     "__comp": "17896441",
     "content": "cdffcd68"
   },
-  "/docs/hermes/building-hermes-af4": {
+  "/spcai/docs/hermes/building-hermes-0ec": {
     "__comp": "17896441",
     "content": "57efaafb"
   },
-  "/docs/hermes/components/buffer-organizer-bf4": {
+  "/spcai/docs/hermes/components/buffer-organizer-56a": {
     "__comp": "17896441",
     "content": "74caac71"
   },
-  "/docs/hermes/components/buffer-pool-379": {
+  "/spcai/docs/hermes/components/buffer-pool-53c": {
     "__comp": "17896441",
     "content": "fdf52e69"
   },
-  "/docs/hermes/components/buffering-target-6a5": {
+  "/spcai/docs/hermes/components/buffering-target-6a8": {
     "__comp": "17896441",
     "content": "998cf384"
   },
-  "/docs/hermes/components/data-placement-569": {
+  "/spcai/docs/hermes/components/data-placement-131": {
     "__comp": "17896441",
     "content": "d1e7ff8e"
   },
-  "/docs/hermes/components/data-staging-258": {
+  "/spcai/docs/hermes/components/data-staging-5f8": {
     "__comp": "17896441",
     "content": "b8ffec82"
   },
-  "/docs/hermes/components/distributed-metadata-f04": {
+  "/spcai/docs/hermes/components/distributed-metadata-55f": {
     "__comp": "17896441",
     "content": "8b0b149a"
   },
-  "/docs/hermes/components/examples-abf": {
+  "/spcai/docs/hermes/components/examples-73b": {
     "__comp": "17896441",
     "content": "7b3f7c98"
   },
-  "/docs/hermes/components/prefetcher-1cf": {
+  "/spcai/docs/hermes/components/prefetcher-34e": {
     "__comp": "17896441",
     "content": "219da0fd"
   },
-  "/docs/hermes/components/runtime-61c": {
+  "/spcai/docs/hermes/components/runtime-215": {
     "__comp": "17896441",
     "content": "495a1267"
   },
-  "/docs/hermes/components/tagging-09d": {
+  "/spcai/docs/hermes/components/tagging-151": {
     "__comp": "17896441",
     "content": "fdbe0d49"
   },
-  "/docs/hermes/components/topology-ee9": {
+  "/spcai/docs/hermes/components/topology-637": {
     "__comp": "17896441",
     "content": "9f88aa2c"
   },
-  "/docs/hermes/configuration-086": {
+  "/spcai/docs/hermes/configuration-9b4": {
     "__comp": "17896441",
     "content": "2638f36e"
   },
-  "/docs/hermes/containers-f45": {
+  "/spcai/docs/hermes/containers-508": {
     "__comp": "17896441",
     "content": "90fa0cb6"
   },
-  "/docs/hermes/deploying-hermes-e71": {
+  "/spcai/docs/hermes/deploying-hermes-740": {
     "__comp": "17896441",
     "content": "14268422"
   },
-  "/docs/hermes/developer-guide-838": {
+  "/spcai/docs/hermes/developer-guide-f64": {
     "__comp": "17896441",
     "content": "30082807"
   },
-  "/docs/hermes/doxygen-347": {
+  "/spcai/docs/hermes/doxygen-1d9": {
     "__comp": "17896441",
     "content": "f3c6a837"
   },
-  "/docs/hermes/faq-8b3": {
+  "/spcai/docs/hermes/faq-a03": {
     "__comp": "17896441",
     "content": "9758ad9d"
   },
-  "/docs/hermes/main-scenario-086": {
+  "/spcai/docs/hermes/main-scenario-68e": {
     "__comp": "17896441",
     "content": "04c65fe0"
   },
-  "/docs/hermes/programming-5be": {
+  "/spcai/docs/hermes/programming-00c": {
     "__comp": "17896441",
     "content": "0df86f4d"
   },
-  "/docs/hpc-tutorials/cpp-introduction/hello-world-28e": {
+  "/spcai/docs/hpc-tutorials/cpp-introduction/hello-world-758": {
     "__comp": "17896441",
     "content": "6af205be"
   },
-  "/docs/hpc-tutorials/important-environment-variables/cmake-module-path-553": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/cmake-module-path-c8c": {
     "__comp": "17896441",
     "content": "049fe023"
   },
-  "/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path-bc0": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path-502": {
     "__comp": "17896441",
     "content": "f2dd65ba"
   },
-  "/docs/hpc-tutorials/important-environment-variables/cpath-d3c": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/cpath-669": {
     "__comp": "17896441",
     "content": "8db11540"
   },
-  "/docs/hpc-tutorials/important-environment-variables/java-home-738": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/java-home-058": {
     "__comp": "17896441",
     "content": "42fffeac"
   },
-  "/docs/hpc-tutorials/important-environment-variables/ld-library-path-10b": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/ld-library-path-820": {
     "__comp": "17896441",
     "content": "e5318f16"
   },
-  "/docs/hpc-tutorials/important-environment-variables/ld-preload-971": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/ld-preload-e4e": {
     "__comp": "17896441",
     "content": "b4232381"
   },
-  "/docs/hpc-tutorials/important-environment-variables/library-path-517": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/library-path-5a6": {
     "__comp": "17896441",
     "content": "d81ffd3b"
   },
-  "/docs/hpc-tutorials/important-environment-variables/path-5d8": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/path-bbf": {
     "__comp": "17896441",
     "content": "9f486ed0"
   },
-  "/docs/hpc-tutorials/important-environment-variables/pythonpath-48b": {
+  "/spcai/docs/hpc-tutorials/important-environment-variables/pythonpath-f2b": {
     "__comp": "17896441",
     "content": "ce0cce8a"
   },
-  "/docs/hpc-tutorials/installing-hpc-software/building-from-scratch-10e": {
+  "/spcai/docs/hpc-tutorials/installing-hpc-software/building-from-scratch-e4d": {
     "__comp": "17896441",
     "content": "308d6444"
   },
-  "/docs/hpc-tutorials/installing-hpc-software/building-with-spack-fe0": {
+  "/spcai/docs/hpc-tutorials/installing-hpc-software/building-with-spack-10e": {
     "__comp": "17896441",
     "content": "1de959af"
   },
-  "/docs/hpc-tutorials/linux-introduction/choosing-an-os-c54": {
+  "/spcai/docs/hpc-tutorials/linux-introduction/choosing-an-os-c40": {
     "__comp": "17896441",
     "content": "be839f51"
   },
-  "/docs/hpc-tutorials/linux-introduction/ssh-d21": {
+  "/spcai/docs/hpc-tutorials/linux-introduction/ssh-ac9": {
     "__comp": "17896441",
     "content": "f55ff2a3"
   },
-  "/docs/hpc-tutorials/linux-introduction/using-a-terminal-842": {
+  "/spcai/docs/hpc-tutorials/linux-introduction/using-a-terminal-952": {
     "__comp": "17896441",
     "content": "f5d46ffa"
   },
-  "/docs/index-cb8": {
+  "/spcai/docs/index-b42": {
     "__comp": "17896441",
     "content": "f5471bd6"
   },
-  "/docs/jarvis/jarvis-cd/building-package-a8d": {
+  "/spcai/docs/jarvis/jarvis-cd/building-package-5f3": {
     "__comp": "17896441",
     "content": "18faaec4"
   },
-  "/docs/jarvis/jarvis-cd/custom-repos-cf4": {
+  "/spcai/docs/jarvis/jarvis-cd/custom-repos-a43": {
     "__comp": "17896441",
     "content": "37d17434"
   },
-  "/docs/jarvis/jarvis-cd/design-motivation-6cc": {
+  "/spcai/docs/jarvis/jarvis-cd/design-motivation-f4b": {
     "__comp": "17896441",
     "content": "3d5be58c"
   },
-  "/docs/jarvis/jarvis-cd/future-work-961": {
+  "/spcai/docs/jarvis/jarvis-cd/future-work-b2c": {
     "__comp": "17896441",
     "content": "81dd3036"
   },
-  "/docs/jarvis/jarvis-cd/getting-started-308": {
+  "/spcai/docs/jarvis/jarvis-cd/getting-started-817": {
     "__comp": "17896441",
     "content": "116b5cec"
   },
-  "/docs/jarvis/jarvis-cd/index-1ad": {
+  "/spcai/docs/jarvis/jarvis-cd/index-6e1": {
     "__comp": "17896441",
     "content": "a14faa7b"
   },
-  "/docs/jarvis/jarvis-cd/packages/cm1-ad3": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/cm1-55a": {
     "__comp": "17896441",
     "content": "da1774b2"
   },
-  "/docs/jarvis/jarvis-cd/packages/deepdrivemd-d11": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/deepdrivemd-64e": {
     "__comp": "17896441",
     "content": "102bb9d9"
   },
-  "/docs/jarvis/jarvis-cd/packages/gadget2-3ea": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/gadget2-d72": {
     "__comp": "17896441",
     "content": "ca37dda7"
   },
-  "/docs/jarvis/jarvis-cd/packages/gadget4-6e4": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/gadget4-107": {
     "__comp": "17896441",
     "content": "effe9d22"
   },
-  "/docs/jarvis/jarvis-cd/packages/lammps-d70": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/lammps-97c": {
     "__comp": "17896441",
     "content": "4b90c943"
   },
-  "/docs/jarvis/jarvis-cd/packages/nyx-db7": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/nyx-923": {
     "__comp": "17896441",
     "content": "657a43b2"
   },
-  "/docs/jarvis/jarvis-cd/packages/openfoam-b95": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/openfoam-545": {
     "__comp": "17896441",
     "content": "3825c17a"
   },
-  "/docs/jarvis/jarvis-cd/packages/vpic-258": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/vpic-ae1": {
     "__comp": "17896441",
     "content": "57dcc027"
   },
-  "/docs/jarvis/jarvis-cd/packages/vpic-kokkos-0e9": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/vpic-kokkos-cce": {
     "__comp": "17896441",
     "content": "06443b75"
   },
-  "/docs/jarvis/jarvis-cd/packages/wrf-0d6": {
+  "/spcai/docs/jarvis/jarvis-cd/packages/wrf-521": {
     "__comp": "17896441",
     "content": "04559415"
   },
-  "/docs/jarvis/jarvis-cd/python-api-755": {
+  "/spcai/docs/jarvis/jarvis-cd/python-api-68e": {
     "__comp": "17896441",
     "content": "e14f0011"
   },
-  "/docs/jarvis/jarvis-cd/resource-graph-b99": {
+  "/spcai/docs/jarvis/jarvis-cd/resource-graph-b48": {
     "__comp": "17896441",
     "content": "3a4e307e"
   },
-  "/docs/jarvis/jarvis-cd/schedulers-c04": {
+  "/spcai/docs/jarvis/jarvis-cd/schedulers-18a": {
     "__comp": "17896441",
     "content": "14512658"
   },
-  "/docs/jarvis/jarvis-cd/virtualization-89f": {
+  "/spcai/docs/jarvis/jarvis-cd/virtualization-e8b": {
     "__comp": "17896441",
     "content": "0b00b8d6"
   },
-  "/docs/jarvis/jarvis-util/argument-parsing-bb8": {
+  "/spcai/docs/jarvis/jarvis-util/argument-parsing-b36": {
     "__comp": "17896441",
     "content": "7456221d"
   },
-  "/docs/jarvis/jarvis-util/builtin-wrappers-6e8": {
+  "/spcai/docs/jarvis/jarvis-util/builtin-wrappers-f5c": {
     "__comp": "17896441",
     "content": "dda71f51"
   },
-  "/docs/jarvis/jarvis-util/hostfile-06c": {
+  "/spcai/docs/jarvis/jarvis-util/hostfile-c3d": {
     "__comp": "17896441",
     "content": "49403d74"
   },
-  "/docs/jarvis/jarvis-util/index-ba4": {
+  "/spcai/docs/jarvis/jarvis-util/index-13e": {
     "__comp": "17896441",
     "content": "ab3a61e2"
   },
-  "/docs/jarvis/jarvis-util/program-execution-ed0": {
+  "/spcai/docs/jarvis/jarvis-util/program-execution-5a1": {
     "__comp": "17896441",
     "content": "efb990fe"
   },
-  "/-578": {
+  "/spcai/-3cc": {
     "__comp": "1df93b7f",
     "__context": {
       "plugin": "26613e0a"

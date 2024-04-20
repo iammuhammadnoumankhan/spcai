@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/research/projects/viper",
+  "permalink": "/spcai/research/projects/viper",
   "source": "@site/src/pages/research/projects/viper.mdx",
   "title": "Viper: A High-Performance I/O Framework for Transferring Deep Neural Network Models",
   "description": "Within a DL workflow, the scientific AI application and the inference serving system typically communicate",

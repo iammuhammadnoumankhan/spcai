@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Welcome",
-        "href": "/docs/index",
+        "href": "/spcai/docs/index",
         "docId": "index",
         "unlisted": false
       },
@@ -31,26 +31,26 @@
               {
                 "type": "link",
                 "label": "Choosing an OS",
-                "href": "/docs/hpc-tutorials/linux-introduction/choosing-an-os",
+                "href": "/spcai/docs/hpc-tutorials/linux-introduction/choosing-an-os",
                 "docId": "hpc-tutorials/linux-introduction/choosing-an-os",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Basics of using a Terminal",
-                "href": "/docs/hpc-tutorials/linux-introduction/using-a-terminal",
+                "href": "/spcai/docs/hpc-tutorials/linux-introduction/using-a-terminal",
                 "docId": "hpc-tutorials/linux-introduction/using-a-terminal",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "SSH",
-                "href": "/docs/hpc-tutorials/linux-introduction/ssh",
+                "href": "/spcai/docs/hpc-tutorials/linux-introduction/ssh",
                 "docId": "hpc-tutorials/linux-introduction/ssh",
                 "unlisted": false
               }
             ],
-            "href": "/docs/category/linux-introduction"
+            "href": "/spcai/docs/category/linux-introduction"
           },
           {
             "type": "category",
@@ -61,19 +61,19 @@
               {
                 "type": "link",
                 "label": "Building With Spack",
-                "href": "/docs/hpc-tutorials/installing-hpc-software/building-with-spack",
+                "href": "/spcai/docs/hpc-tutorials/installing-hpc-software/building-with-spack",
                 "docId": "hpc-tutorials/installing-hpc-software/building-with-spack",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Building From Scratch",
-                "href": "/docs/hpc-tutorials/installing-hpc-software/building-from-scratch",
+                "href": "/spcai/docs/hpc-tutorials/installing-hpc-software/building-from-scratch",
                 "docId": "hpc-tutorials/installing-hpc-software/building-from-scratch",
                 "unlisted": false
               }
             ],
-            "href": "/docs/category/installing-hpc-software"
+            "href": "/spcai/docs/category/installing-hpc-software"
           },
           {
             "type": "category",
@@ -84,68 +84,68 @@
               {
                 "type": "link",
                 "label": "CMAKE_MODULE_PATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/cmake-module-path",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/cmake-module-path",
                 "docId": "hpc-tutorials/important-environment-variables/cmake-module-path",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "CMAKE_PREFIX_PATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path",
                 "docId": "hpc-tutorials/important-environment-variables/cmake-prefix-path",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "CPATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/cpath",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/cpath",
                 "docId": "hpc-tutorials/important-environment-variables/cpath",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "JAVA_HOME",
-                "href": "/docs/hpc-tutorials/important-environment-variables/java-home",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/java-home",
                 "docId": "hpc-tutorials/important-environment-variables/java-home",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "LD_LIBRARY_PATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/ld-library-path",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/ld-library-path",
                 "docId": "hpc-tutorials/important-environment-variables/ld-library-path",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "LD_PRELOAD",
-                "href": "/docs/hpc-tutorials/important-environment-variables/ld-preload",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/ld-preload",
                 "docId": "hpc-tutorials/important-environment-variables/ld-preload",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "LIBRARY_PATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/library-path",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/library-path",
                 "docId": "hpc-tutorials/important-environment-variables/library-path",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "PATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/path",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/path",
                 "docId": "hpc-tutorials/important-environment-variables/path",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "PYTHONPATH",
-                "href": "/docs/hpc-tutorials/important-environment-variables/pythonpath",
+                "href": "/spcai/docs/hpc-tutorials/important-environment-variables/pythonpath",
                 "docId": "hpc-tutorials/important-environment-variables/pythonpath",
                 "unlisted": false
               }
             ],
-            "href": "/docs/category/important-environment-variables"
+            "href": "/spcai/docs/category/important-environment-variables"
           },
           {
             "type": "category",
@@ -156,12 +156,12 @@
               {
                 "type": "link",
                 "label": "Hello World",
-                "href": "/docs/hpc-tutorials/cpp-introduction/hello-world",
+                "href": "/spcai/docs/hpc-tutorials/cpp-introduction/hello-world",
                 "docId": "hpc-tutorials/cpp-introduction/hello-world",
                 "unlisted": false
               }
             ],
-            "href": "/docs/category/c-introduction"
+            "href": "/spcai/docs/category/c-introduction"
           }
         ]
       },
@@ -174,42 +174,42 @@
           {
             "type": "link",
             "label": "Main Scenario",
-            "href": "/docs/hermes/main-scenario",
+            "href": "/spcai/docs/hermes/main-scenario",
             "docId": "hermes/main-scenario",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Building Hermes",
-            "href": "/docs/hermes/building-hermes",
+            "href": "/spcai/docs/hermes/building-hermes",
             "docId": "hermes/building-hermes",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Deploying Hermes",
-            "href": "/docs/hermes/deploying-hermes",
+            "href": "/spcai/docs/hermes/deploying-hermes",
             "docId": "hermes/deploying-hermes",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Configuration",
-            "href": "/docs/hermes/configuration",
+            "href": "/spcai/docs/hermes/configuration",
             "docId": "hermes/configuration",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Adapters",
-            "href": "/docs/hermes/adapters",
+            "href": "/spcai/docs/hermes/adapters",
             "docId": "hermes/adapters",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Programming",
-            "href": "/docs/hermes/programming",
+            "href": "/spcai/docs/hermes/programming",
             "docId": "hermes/programming",
             "unlisted": false
           },
@@ -222,77 +222,77 @@
               {
                 "type": "link",
                 "label": "Buffer Organizer",
-                "href": "/docs/hermes/components/buffer-organizer",
+                "href": "/spcai/docs/hermes/components/buffer-organizer",
                 "docId": "hermes/components/buffer-organizer",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Buffer Pool",
-                "href": "/docs/hermes/components/buffer-pool",
+                "href": "/spcai/docs/hermes/components/buffer-pool",
                 "docId": "hermes/components/buffer-pool",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Buffering Target",
-                "href": "/docs/hermes/components/buffering-target",
+                "href": "/spcai/docs/hermes/components/buffering-target",
                 "docId": "hermes/components/buffering-target",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Data Placement",
-                "href": "/docs/hermes/components/data-placement",
+                "href": "/spcai/docs/hermes/components/data-placement",
                 "docId": "hermes/components/data-placement",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Data Staging",
-                "href": "/docs/hermes/components/data-staging",
+                "href": "/spcai/docs/hermes/components/data-staging",
                 "docId": "hermes/components/data-staging",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Runtime",
-                "href": "/docs/hermes/components/runtime",
+                "href": "/spcai/docs/hermes/components/runtime",
                 "docId": "hermes/components/runtime",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Distributed Metadata",
-                "href": "/docs/hermes/components/distributed-metadata",
+                "href": "/spcai/docs/hermes/components/distributed-metadata",
                 "docId": "hermes/components/distributed-metadata",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Prefetcher",
-                "href": "/docs/hermes/components/prefetcher",
+                "href": "/spcai/docs/hermes/components/prefetcher",
                 "docId": "hermes/components/prefetcher",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Examples",
-                "href": "/docs/hermes/components/examples",
+                "href": "/spcai/docs/hermes/components/examples",
                 "docId": "hermes/components/examples",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Tagging",
-                "href": "/docs/hermes/components/tagging",
+                "href": "/spcai/docs/hermes/components/tagging",
                 "docId": "hermes/components/tagging",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Topology",
-                "href": "/docs/hermes/components/topology",
+                "href": "/spcai/docs/hermes/components/topology",
                 "docId": "hermes/components/topology",
                 "unlisted": false
               }
@@ -301,33 +301,33 @@
           {
             "type": "link",
             "label": "Containers",
-            "href": "/docs/hermes/containers",
+            "href": "/spcai/docs/hermes/containers",
             "docId": "hermes/containers",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Developer Guide",
-            "href": "/docs/hermes/developer-guide",
+            "href": "/spcai/docs/hermes/developer-guide",
             "docId": "hermes/developer-guide",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Doxygen",
-            "href": "/docs/hermes/doxygen",
+            "href": "/spcai/docs/hermes/doxygen",
             "docId": "hermes/doxygen",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "Frequently Asked Questions",
-            "href": "/docs/hermes/faq",
+            "href": "/spcai/docs/hermes/faq",
             "docId": "hermes/faq",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/hermes"
+        "href": "/spcai/docs/category/hermes"
       },
       {
         "type": "category",
@@ -338,7 +338,7 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/docs/chronolog/index",
+            "href": "/spcai/docs/chronolog/index",
             "docId": "chronolog/index",
             "unlisted": false
           }
@@ -359,35 +359,35 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/docs/jarvis/jarvis-util/index",
+                "href": "/spcai/docs/jarvis/jarvis-util/index",
                 "docId": "jarvis/jarvis-util/index",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Program Execution",
-                "href": "/docs/jarvis/jarvis-util/program-execution",
+                "href": "/spcai/docs/jarvis/jarvis-util/program-execution",
                 "docId": "jarvis/jarvis-util/program-execution",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Built-in Wrappers",
-                "href": "/docs/jarvis/jarvis-util/builtin-wrappers",
+                "href": "/spcai/docs/jarvis/jarvis-util/builtin-wrappers",
                 "docId": "jarvis/jarvis-util/builtin-wrappers",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Argument Parsing",
-                "href": "/docs/jarvis/jarvis-util/argument-parsing",
+                "href": "/spcai/docs/jarvis/jarvis-util/argument-parsing",
                 "docId": "jarvis/jarvis-util/argument-parsing",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Hostfile",
-                "href": "/docs/jarvis/jarvis-util/hostfile",
+                "href": "/spcai/docs/jarvis/jarvis-util/hostfile",
                 "docId": "jarvis/jarvis-util/hostfile",
                 "unlisted": false
               }
@@ -402,49 +402,49 @@
               {
                 "type": "link",
                 "label": "Introduction",
-                "href": "/docs/jarvis/jarvis-cd/index",
+                "href": "/spcai/docs/jarvis/jarvis-cd/index",
                 "docId": "jarvis/jarvis-cd/index",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Getting Standard",
-                "href": "/docs/jarvis/jarvis-cd/getting-started",
+                "href": "/spcai/docs/jarvis/jarvis-cd/getting-started",
                 "docId": "jarvis/jarvis-cd/getting-started",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Resource Graph",
-                "href": "/docs/jarvis/jarvis-cd/resource-graph",
+                "href": "/spcai/docs/jarvis/jarvis-cd/resource-graph",
                 "docId": "jarvis/jarvis-cd/resource-graph",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Design & Motivation",
-                "href": "/docs/jarvis/jarvis-cd/design-motivation",
+                "href": "/spcai/docs/jarvis/jarvis-cd/design-motivation",
                 "docId": "jarvis/jarvis-cd/design-motivation",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Custom Repos",
-                "href": "/docs/jarvis/jarvis-cd/custom-repos",
+                "href": "/spcai/docs/jarvis/jarvis-cd/custom-repos",
                 "docId": "jarvis/jarvis-cd/custom-repos",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Building a Package",
-                "href": "/docs/jarvis/jarvis-cd/building-package",
+                "href": "/spcai/docs/jarvis/jarvis-cd/building-package",
                 "docId": "jarvis/jarvis-cd/building-package",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Python API",
-                "href": "/docs/jarvis/jarvis-cd/python-api",
+                "href": "/spcai/docs/jarvis/jarvis-cd/python-api",
                 "docId": "jarvis/jarvis-cd/python-api",
                 "unlisted": false
               },
@@ -457,70 +457,70 @@
                   {
                     "type": "link",
                     "label": "CM1",
-                    "href": "/docs/jarvis/jarvis-cd/packages/cm1",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/cm1",
                     "docId": "jarvis/jarvis-cd/packages/cm1",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "DeepDriveMD",
-                    "href": "/docs/jarvis/jarvis-cd/packages/deepdrivemd",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/deepdrivemd",
                     "docId": "jarvis/jarvis-cd/packages/deepdrivemd",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "Gadget2",
-                    "href": "/docs/jarvis/jarvis-cd/packages/gadget2",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/gadget2",
                     "docId": "jarvis/jarvis-cd/packages/gadget2",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "Gadget",
-                    "href": "/docs/jarvis/jarvis-cd/packages/gadget4",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/gadget4",
                     "docId": "jarvis/jarvis-cd/packages/gadget4",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "LAMMPS",
-                    "href": "/docs/jarvis/jarvis-cd/packages/lammps",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/lammps",
                     "docId": "jarvis/jarvis-cd/packages/lammps",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "Nyx",
-                    "href": "/docs/jarvis/jarvis-cd/packages/nyx",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/nyx",
                     "docId": "jarvis/jarvis-cd/packages/nyx",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "OpenFOAM",
-                    "href": "/docs/jarvis/jarvis-cd/packages/openfoam",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/openfoam",
                     "docId": "jarvis/jarvis-cd/packages/openfoam",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "VPIC Kokkos",
-                    "href": "/docs/jarvis/jarvis-cd/packages/vpic-kokkos",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/vpic-kokkos",
                     "docId": "jarvis/jarvis-cd/packages/vpic-kokkos",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "VPIC",
-                    "href": "/docs/jarvis/jarvis-cd/packages/vpic",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/vpic",
                     "docId": "jarvis/jarvis-cd/packages/vpic",
                     "unlisted": false
                   },
                   {
                     "type": "link",
                     "label": "WRF",
-                    "href": "/docs/jarvis/jarvis-cd/packages/wrf",
+                    "href": "/spcai/docs/jarvis/jarvis-cd/packages/wrf",
                     "docId": "jarvis/jarvis-cd/packages/wrf",
                     "unlisted": false
                   }
@@ -529,21 +529,21 @@
               {
                 "type": "link",
                 "label": "Schedulers",
-                "href": "/docs/jarvis/jarvis-cd/schedulers",
+                "href": "/spcai/docs/jarvis/jarvis-cd/schedulers",
                 "docId": "jarvis/jarvis-cd/schedulers",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Virtualization",
-                "href": "/docs/jarvis/jarvis-cd/virtualization",
+                "href": "/spcai/docs/jarvis/jarvis-cd/virtualization",
                 "docId": "jarvis/jarvis-cd/virtualization",
                 "unlisted": false
               },
               {
                 "type": "link",
                 "label": "Future Work",
-                "href": "/docs/jarvis/jarvis-cd/future-work",
+                "href": "/spcai/docs/jarvis/jarvis-cd/future-work",
                 "docId": "jarvis/jarvis-cd/future-work",
                 "unlisted": false
               }
@@ -560,19 +560,19 @@
           {
             "type": "link",
             "label": "User Guide",
-            "href": "/docs/ares/ares-user-guide",
+            "href": "/spcai/docs/ares/ares-user-guide",
             "docId": "ares/ares-user-guide",
             "unlisted": false
           },
           {
             "type": "link",
             "label": "FAQ",
-            "href": "/docs/ares/faq",
+            "href": "/spcai/docs/ares/faq",
             "docId": "ares/faq",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/ares-research-cluster"
+        "href": "/spcai/docs/category/ares-research-cluster"
       }
     ]
   },

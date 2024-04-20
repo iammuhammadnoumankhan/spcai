@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/08-components/12-topology.md",
   "sourceDirName": "03-hermes/08-components",
   "slug": "/hermes/components/topology",
-  "permalink": "/docs/hermes/components/topology",
+  "permalink": "/spcai/docs/hermes/components/topology",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tagging",
-    "permalink": "/docs/hermes/components/tagging"
+    "permalink": "/spcai/docs/hermes/components/tagging"
   },
   "next": {
     "title": "Containers",
-    "permalink": "/docs/hermes/containers"
+    "permalink": "/spcai/docs/hermes/containers"
   }
 }

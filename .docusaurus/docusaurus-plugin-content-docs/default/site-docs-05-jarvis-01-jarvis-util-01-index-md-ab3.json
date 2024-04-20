@@ -5,7 +5,7 @@
   "source": "@site/docs/05-jarvis/01-jarvis-util/01-index.md",
   "sourceDirName": "05-jarvis/01-jarvis-util",
   "slug": "/jarvis/jarvis-util/index",
-  "permalink": "/docs/jarvis/jarvis-util/index",
+  "permalink": "/spcai/docs/jarvis/jarvis-util/index",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/docs/chronolog/index"
+    "permalink": "/spcai/docs/chronolog/index"
   },
   "next": {
     "title": "Program Execution",
-    "permalink": "/docs/jarvis/jarvis-util/program-execution"
+    "permalink": "/spcai/docs/jarvis/jarvis-util/program-execution"
   }
 }

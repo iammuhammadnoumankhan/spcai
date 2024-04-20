@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/08-components/08-distributed-metadata.md",
   "sourceDirName": "03-hermes/08-components",
   "slug": "/hermes/components/distributed-metadata",
-  "permalink": "/docs/hermes/components/distributed-metadata",
+  "permalink": "/spcai/docs/hermes/components/distributed-metadata",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Runtime",
-    "permalink": "/docs/hermes/components/runtime"
+    "permalink": "/spcai/docs/hermes/components/runtime"
   },
   "next": {
     "title": "Prefetcher",
-    "permalink": "/docs/hermes/components/prefetcher"
+    "permalink": "/spcai/docs/hermes/components/prefetcher"
   }
 }

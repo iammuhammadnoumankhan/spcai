@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/08-components/11-tagging.md",
   "sourceDirName": "03-hermes/08-components",
   "slug": "/hermes/components/tagging",
-  "permalink": "/docs/hermes/components/tagging",
+  "permalink": "/spcai/docs/hermes/components/tagging",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Examples",
-    "permalink": "/docs/hermes/components/examples"
+    "permalink": "/spcai/docs/hermes/components/examples"
   },
   "next": {
     "title": "Topology",
-    "permalink": "/docs/hermes/components/topology"
+    "permalink": "/spcai/docs/hermes/components/topology"
   }
 }

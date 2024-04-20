@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/12-faq.md",
   "sourceDirName": "03-hermes",
   "slug": "/hermes/faq",
-  "permalink": "/docs/hermes/faq",
+  "permalink": "/spcai/docs/hermes/faq",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Doxygen",
-    "permalink": "/docs/hermes/doxygen"
+    "permalink": "/spcai/docs/hermes/doxygen"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/docs/chronolog/index"
+    "permalink": "/spcai/docs/chronolog/index"
   }
 }

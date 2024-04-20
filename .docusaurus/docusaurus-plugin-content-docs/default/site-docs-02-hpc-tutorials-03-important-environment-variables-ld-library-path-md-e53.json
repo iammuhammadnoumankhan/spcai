@@ -5,7 +5,7 @@
   "source": "@site/docs/02-hpc-tutorials/03-important-environment-variables/ld-library-path.md",
   "sourceDirName": "02-hpc-tutorials/03-important-environment-variables",
   "slug": "/hpc-tutorials/important-environment-variables/ld-library-path",
-  "permalink": "/docs/hpc-tutorials/important-environment-variables/ld-library-path",
+  "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/ld-library-path",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "JAVA_HOME",
-    "permalink": "/docs/hpc-tutorials/important-environment-variables/java-home"
+    "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/java-home"
   },
   "next": {
     "title": "LD_PRELOAD",
-    "permalink": "/docs/hpc-tutorials/important-environment-variables/ld-preload"
+    "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/ld-preload"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/01-main-scenario.md",
   "sourceDirName": "03-hermes",
   "slug": "/hermes/main-scenario",
-  "permalink": "/docs/hermes/main-scenario",
+  "permalink": "/spcai/docs/hermes/main-scenario",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Hermes",
-    "permalink": "/docs/category/hermes"
+    "permalink": "/spcai/docs/category/hermes"
   },
   "next": {
     "title": "Building Hermes",
-    "permalink": "/docs/hermes/building-hermes"
+    "permalink": "/spcai/docs/hermes/building-hermes"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/02-hpc-tutorials/03-important-environment-variables/python-path.md",
   "sourceDirName": "02-hpc-tutorials/03-important-environment-variables",
   "slug": "/hpc-tutorials/important-environment-variables/pythonpath",
-  "permalink": "/docs/hpc-tutorials/important-environment-variables/pythonpath",
+  "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/pythonpath",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -16,10 +16,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PATH",
-    "permalink": "/docs/hpc-tutorials/important-environment-variables/path"
+    "permalink": "/spcai/docs/hpc-tutorials/important-environment-variables/path"
   },
   "next": {
     "title": "C++ Introduction",
-    "permalink": "/docs/category/c-introduction"
+    "permalink": "/spcai/docs/category/c-introduction"
   }
 }

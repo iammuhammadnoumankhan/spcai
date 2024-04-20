@@ -3,595 +3,595 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/about',
-    component: ComponentCreator('/about', '88a'),
+    path: '/spcai/about',
+    component: ComponentCreator('/spcai/about', '281'),
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '3f1'),
+    path: '/spcai/blog',
+    component: ComponentCreator('/spcai/blog', '624'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'cc3'),
+    path: '/spcai/blog/archive',
+    component: ComponentCreator('/spcai/blog/archive', '06a'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '997'),
+    path: '/spcai/blog/first-blog-post',
+    component: ComponentCreator('/spcai/blog/first-blog-post', '673'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'df7'),
+    path: '/spcai/blog/long-blog-post',
+    component: ComponentCreator('/spcai/blog/long-blog-post', 'e4c'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '07f'),
+    path: '/spcai/blog/mdx-blog-post',
+    component: ComponentCreator('/spcai/blog/mdx-blog-post', 'ce0'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '9c8'),
+    path: '/spcai/blog/tags',
+    component: ComponentCreator('/spcai/blog/tags', '7ac'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '7be'),
+    path: '/spcai/blog/tags/docusaurus',
+    component: ComponentCreator('/spcai/blog/tags/docusaurus', 'e35'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'ff5'),
+    path: '/spcai/blog/tags/facebook',
+    component: ComponentCreator('/spcai/blog/tags/facebook', '473'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '5a0'),
+    path: '/spcai/blog/tags/hello',
+    component: ComponentCreator('/spcai/blog/tags/hello', '4b5'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '539'),
+    path: '/spcai/blog/tags/hola',
+    component: ComponentCreator('/spcai/blog/tags/hola', '427'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '99e'),
+    path: '/spcai/blog/welcome',
+    component: ComponentCreator('/spcai/blog/welcome', '027'),
     exact: true
   },
   {
-    path: '/contact',
-    component: ComponentCreator('/contact', 'f01'),
+    path: '/spcai/contact',
+    component: ComponentCreator('/spcai/contact', '75a'),
     exact: true
   },
   {
-    path: '/jobs/',
-    component: ComponentCreator('/jobs/', '74f'),
+    path: '/spcai/jobs/',
+    component: ComponentCreator('/spcai/jobs/', '5e4'),
     exact: true
   },
   {
-    path: '/jobs/postdoc',
-    component: ComponentCreator('/jobs/postdoc', '745'),
+    path: '/spcai/jobs/postdoc',
+    component: ComponentCreator('/spcai/jobs/postdoc', '826'),
     exact: true
   },
   {
-    path: '/jobs/software-engineer',
-    component: ComponentCreator('/jobs/software-engineer', '5b4'),
+    path: '/spcai/jobs/software-engineer',
+    component: ComponentCreator('/spcai/jobs/software-engineer', 'b4f'),
     exact: true
   },
   {
-    path: '/members',
-    component: ComponentCreator('/members', '834'),
+    path: '/spcai/members',
+    component: ComponentCreator('/spcai/members', '55d'),
     exact: true
   },
   {
-    path: '/network',
-    component: ComponentCreator('/network', '8ca'),
+    path: '/spcai/network',
+    component: ComponentCreator('/spcai/network', '5c3'),
     exact: true
   },
   {
-    path: '/publications',
-    component: ComponentCreator('/publications', 'c4a'),
+    path: '/spcai/publications',
+    component: ComponentCreator('/spcai/publications', '51e'),
     exact: true
   },
   {
-    path: '/research/patents',
-    component: ComponentCreator('/research/patents', 'b1d'),
+    path: '/spcai/research/patents',
+    component: ComponentCreator('/spcai/research/patents', 'daa'),
     exact: true
   },
   {
-    path: '/research/projects/',
-    component: ComponentCreator('/research/projects/', '8fa'),
+    path: '/spcai/research/projects/',
+    component: ComponentCreator('/spcai/research/projects/', '2dd'),
     exact: true
   },
   {
-    path: '/research/projects/chronolog',
-    component: ComponentCreator('/research/projects/chronolog', 'e26'),
+    path: '/spcai/research/projects/chronolog',
+    component: ComponentCreator('/spcai/research/projects/chronolog', '298'),
     exact: true
   },
   {
-    path: '/research/projects/coeus',
-    component: ComponentCreator('/research/projects/coeus', 'd02'),
+    path: '/spcai/research/projects/coeus',
+    component: ComponentCreator('/spcai/research/projects/coeus', 'a22'),
     exact: true
   },
   {
-    path: '/research/projects/dayu',
-    component: ComponentCreator('/research/projects/dayu', 'd99'),
+    path: '/spcai/research/projects/dayu',
+    component: ComponentCreator('/spcai/research/projects/dayu', '695'),
     exact: true
   },
   {
-    path: '/research/projects/dtio',
-    component: ComponentCreator('/research/projects/dtio', 'b04'),
+    path: '/spcai/research/projects/dtio',
+    component: ComponentCreator('/spcai/research/projects/dtio', 'fad'),
     exact: true
   },
   {
-    path: '/research/projects/hermes',
-    component: ComponentCreator('/research/projects/hermes', '6b8'),
+    path: '/spcai/research/projects/hermes',
+    component: ComponentCreator('/spcai/research/projects/hermes', '285'),
     exact: true
   },
   {
-    path: '/research/projects/iris',
-    component: ComponentCreator('/research/projects/iris', 'd10'),
+    path: '/spcai/research/projects/iris',
+    component: ComponentCreator('/spcai/research/projects/iris', 'e96'),
     exact: true
   },
   {
-    path: '/research/projects/labios',
-    component: ComponentCreator('/research/projects/labios', '4d5'),
+    path: '/spcai/research/projects/labios',
+    component: ComponentCreator('/spcai/research/projects/labios', '22d'),
     exact: true
   },
   {
-    path: '/research/projects/viper',
-    component: ComponentCreator('/research/projects/viper', 'a7b'),
+    path: '/spcai/research/projects/viper',
+    component: ComponentCreator('/spcai/research/projects/viper', '0e9'),
     exact: true
   },
   {
-    path: '/research/projects/wisio',
-    component: ComponentCreator('/research/projects/wisio', '0ab'),
+    path: '/spcai/research/projects/wisio',
+    component: ComponentCreator('/spcai/research/projects/wisio', '464'),
     exact: true
   },
   {
-    path: '/resources/hardware-overview',
-    component: ComponentCreator('/resources/hardware-overview', '332'),
+    path: '/spcai/resources/hardware-overview',
+    component: ComponentCreator('/spcai/resources/hardware-overview', 'f33'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '680'),
+    path: '/spcai/docs',
+    component: ComponentCreator('/spcai/docs', '277'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', 'fa1'),
+        path: '/spcai/docs',
+        component: ComponentCreator('/spcai/docs', '0a3'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '9b3'),
+            path: '/spcai/docs',
+            component: ComponentCreator('/spcai/docs', 'f92'),
             routes: [
               {
-                path: '/docs/ares/ares-user-guide',
-                component: ComponentCreator('/docs/ares/ares-user-guide', '32f'),
+                path: '/spcai/docs/ares/ares-user-guide',
+                component: ComponentCreator('/spcai/docs/ares/ares-user-guide', '9c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/ares/faq',
-                component: ComponentCreator('/docs/ares/faq', 'b1f'),
+                path: '/spcai/docs/ares/faq',
+                component: ComponentCreator('/spcai/docs/ares/faq', 'e56'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/ares-research-cluster',
-                component: ComponentCreator('/docs/category/ares-research-cluster', '394'),
+                path: '/spcai/docs/category/ares-research-cluster',
+                component: ComponentCreator('/spcai/docs/category/ares-research-cluster', '9d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/c-introduction',
-                component: ComponentCreator('/docs/category/c-introduction', '79e'),
+                path: '/spcai/docs/category/c-introduction',
+                component: ComponentCreator('/spcai/docs/category/c-introduction', '297'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/hermes',
-                component: ComponentCreator('/docs/category/hermes', 'ebd'),
+                path: '/spcai/docs/category/hermes',
+                component: ComponentCreator('/spcai/docs/category/hermes', 'd5f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/important-environment-variables',
-                component: ComponentCreator('/docs/category/important-environment-variables', '6b9'),
+                path: '/spcai/docs/category/important-environment-variables',
+                component: ComponentCreator('/spcai/docs/category/important-environment-variables', '065'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/installing-hpc-software',
-                component: ComponentCreator('/docs/category/installing-hpc-software', '02f'),
+                path: '/spcai/docs/category/installing-hpc-software',
+                component: ComponentCreator('/spcai/docs/category/installing-hpc-software', 'a8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/linux-introduction',
-                component: ComponentCreator('/docs/category/linux-introduction', '142'),
+                path: '/spcai/docs/category/linux-introduction',
+                component: ComponentCreator('/spcai/docs/category/linux-introduction', '957'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/chronolog/index',
-                component: ComponentCreator('/docs/chronolog/index', '024'),
+                path: '/spcai/docs/chronolog/index',
+                component: ComponentCreator('/spcai/docs/chronolog/index', '36a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/adapters',
-                component: ComponentCreator('/docs/hermes/adapters', '449'),
+                path: '/spcai/docs/hermes/adapters',
+                component: ComponentCreator('/spcai/docs/hermes/adapters', 'fb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/building-hermes',
-                component: ComponentCreator('/docs/hermes/building-hermes', 'af4'),
+                path: '/spcai/docs/hermes/building-hermes',
+                component: ComponentCreator('/spcai/docs/hermes/building-hermes', '0ec'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/buffer-organizer',
-                component: ComponentCreator('/docs/hermes/components/buffer-organizer', 'bf4'),
+                path: '/spcai/docs/hermes/components/buffer-organizer',
+                component: ComponentCreator('/spcai/docs/hermes/components/buffer-organizer', '56a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/buffer-pool',
-                component: ComponentCreator('/docs/hermes/components/buffer-pool', '379'),
+                path: '/spcai/docs/hermes/components/buffer-pool',
+                component: ComponentCreator('/spcai/docs/hermes/components/buffer-pool', '53c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/buffering-target',
-                component: ComponentCreator('/docs/hermes/components/buffering-target', '6a5'),
+                path: '/spcai/docs/hermes/components/buffering-target',
+                component: ComponentCreator('/spcai/docs/hermes/components/buffering-target', '6a8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/data-placement',
-                component: ComponentCreator('/docs/hermes/components/data-placement', '569'),
+                path: '/spcai/docs/hermes/components/data-placement',
+                component: ComponentCreator('/spcai/docs/hermes/components/data-placement', '131'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/data-staging',
-                component: ComponentCreator('/docs/hermes/components/data-staging', '258'),
+                path: '/spcai/docs/hermes/components/data-staging',
+                component: ComponentCreator('/spcai/docs/hermes/components/data-staging', '5f8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/distributed-metadata',
-                component: ComponentCreator('/docs/hermes/components/distributed-metadata', 'f04'),
+                path: '/spcai/docs/hermes/components/distributed-metadata',
+                component: ComponentCreator('/spcai/docs/hermes/components/distributed-metadata', '55f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/examples',
-                component: ComponentCreator('/docs/hermes/components/examples', 'abf'),
+                path: '/spcai/docs/hermes/components/examples',
+                component: ComponentCreator('/spcai/docs/hermes/components/examples', '73b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/prefetcher',
-                component: ComponentCreator('/docs/hermes/components/prefetcher', '1cf'),
+                path: '/spcai/docs/hermes/components/prefetcher',
+                component: ComponentCreator('/spcai/docs/hermes/components/prefetcher', '34e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/runtime',
-                component: ComponentCreator('/docs/hermes/components/runtime', '61c'),
+                path: '/spcai/docs/hermes/components/runtime',
+                component: ComponentCreator('/spcai/docs/hermes/components/runtime', '215'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/tagging',
-                component: ComponentCreator('/docs/hermes/components/tagging', '09d'),
+                path: '/spcai/docs/hermes/components/tagging',
+                component: ComponentCreator('/spcai/docs/hermes/components/tagging', '151'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/components/topology',
-                component: ComponentCreator('/docs/hermes/components/topology', 'ee9'),
+                path: '/spcai/docs/hermes/components/topology',
+                component: ComponentCreator('/spcai/docs/hermes/components/topology', '637'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/configuration',
-                component: ComponentCreator('/docs/hermes/configuration', '086'),
+                path: '/spcai/docs/hermes/configuration',
+                component: ComponentCreator('/spcai/docs/hermes/configuration', '9b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/containers',
-                component: ComponentCreator('/docs/hermes/containers', 'f45'),
+                path: '/spcai/docs/hermes/containers',
+                component: ComponentCreator('/spcai/docs/hermes/containers', '508'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/deploying-hermes',
-                component: ComponentCreator('/docs/hermes/deploying-hermes', 'e71'),
+                path: '/spcai/docs/hermes/deploying-hermes',
+                component: ComponentCreator('/spcai/docs/hermes/deploying-hermes', '740'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/developer-guide',
-                component: ComponentCreator('/docs/hermes/developer-guide', '838'),
+                path: '/spcai/docs/hermes/developer-guide',
+                component: ComponentCreator('/spcai/docs/hermes/developer-guide', 'f64'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/doxygen',
-                component: ComponentCreator('/docs/hermes/doxygen', '347'),
+                path: '/spcai/docs/hermes/doxygen',
+                component: ComponentCreator('/spcai/docs/hermes/doxygen', '1d9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/faq',
-                component: ComponentCreator('/docs/hermes/faq', '8b3'),
+                path: '/spcai/docs/hermes/faq',
+                component: ComponentCreator('/spcai/docs/hermes/faq', 'a03'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/main-scenario',
-                component: ComponentCreator('/docs/hermes/main-scenario', '086'),
+                path: '/spcai/docs/hermes/main-scenario',
+                component: ComponentCreator('/spcai/docs/hermes/main-scenario', '68e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hermes/programming',
-                component: ComponentCreator('/docs/hermes/programming', '5be'),
+                path: '/spcai/docs/hermes/programming',
+                component: ComponentCreator('/spcai/docs/hermes/programming', '00c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/cpp-introduction/hello-world',
-                component: ComponentCreator('/docs/hpc-tutorials/cpp-introduction/hello-world', '28e'),
+                path: '/spcai/docs/hpc-tutorials/cpp-introduction/hello-world',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/cpp-introduction/hello-world', '758'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/cmake-module-path',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/cmake-module-path', '553'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/cmake-module-path',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/cmake-module-path', 'c8c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path', 'bc0'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/cmake-prefix-path', '502'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/cpath',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/cpath', 'd3c'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/cpath',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/cpath', '669'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/java-home',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/java-home', '738'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/java-home',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/java-home', '058'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/ld-library-path',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/ld-library-path', '10b'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/ld-library-path',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/ld-library-path', '820'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/ld-preload',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/ld-preload', '971'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/ld-preload',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/ld-preload', 'e4e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/library-path',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/library-path', '517'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/library-path',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/library-path', '5a6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/path',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/path', '5d8'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/path',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/path', 'bbf'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/important-environment-variables/pythonpath',
-                component: ComponentCreator('/docs/hpc-tutorials/important-environment-variables/pythonpath', '48b'),
+                path: '/spcai/docs/hpc-tutorials/important-environment-variables/pythonpath',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/important-environment-variables/pythonpath', 'f2b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/installing-hpc-software/building-from-scratch',
-                component: ComponentCreator('/docs/hpc-tutorials/installing-hpc-software/building-from-scratch', '10e'),
+                path: '/spcai/docs/hpc-tutorials/installing-hpc-software/building-from-scratch',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/installing-hpc-software/building-from-scratch', 'e4d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/installing-hpc-software/building-with-spack',
-                component: ComponentCreator('/docs/hpc-tutorials/installing-hpc-software/building-with-spack', 'fe0'),
+                path: '/spcai/docs/hpc-tutorials/installing-hpc-software/building-with-spack',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/installing-hpc-software/building-with-spack', '10e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/linux-introduction/choosing-an-os',
-                component: ComponentCreator('/docs/hpc-tutorials/linux-introduction/choosing-an-os', 'c54'),
+                path: '/spcai/docs/hpc-tutorials/linux-introduction/choosing-an-os',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/linux-introduction/choosing-an-os', 'c40'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/linux-introduction/ssh',
-                component: ComponentCreator('/docs/hpc-tutorials/linux-introduction/ssh', 'd21'),
+                path: '/spcai/docs/hpc-tutorials/linux-introduction/ssh',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/linux-introduction/ssh', 'ac9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/hpc-tutorials/linux-introduction/using-a-terminal',
-                component: ComponentCreator('/docs/hpc-tutorials/linux-introduction/using-a-terminal', '842'),
+                path: '/spcai/docs/hpc-tutorials/linux-introduction/using-a-terminal',
+                component: ComponentCreator('/spcai/docs/hpc-tutorials/linux-introduction/using-a-terminal', '952'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/index',
-                component: ComponentCreator('/docs/index', 'cb8'),
+                path: '/spcai/docs/index',
+                component: ComponentCreator('/spcai/docs/index', 'b42'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/building-package',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/building-package', 'a8d'),
+                path: '/spcai/docs/jarvis/jarvis-cd/building-package',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/building-package', '5f3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/custom-repos',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/custom-repos', 'cf4'),
+                path: '/spcai/docs/jarvis/jarvis-cd/custom-repos',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/custom-repos', 'a43'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/design-motivation',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/design-motivation', '6cc'),
+                path: '/spcai/docs/jarvis/jarvis-cd/design-motivation',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/design-motivation', 'f4b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/future-work',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/future-work', '961'),
+                path: '/spcai/docs/jarvis/jarvis-cd/future-work',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/future-work', 'b2c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/getting-started',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/getting-started', '308'),
+                path: '/spcai/docs/jarvis/jarvis-cd/getting-started',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/getting-started', '817'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/index',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/index', '1ad'),
+                path: '/spcai/docs/jarvis/jarvis-cd/index',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/index', '6e1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/cm1',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/cm1', 'ad3'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/cm1',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/cm1', '55a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/deepdrivemd',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/deepdrivemd', 'd11'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/deepdrivemd',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/deepdrivemd', '64e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/gadget2',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/gadget2', '3ea'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/gadget2',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/gadget2', 'd72'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/gadget4',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/gadget4', '6e4'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/gadget4',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/gadget4', '107'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/lammps',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/lammps', 'd70'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/lammps',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/lammps', '97c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/nyx',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/nyx', 'db7'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/nyx',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/nyx', '923'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/openfoam',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/openfoam', 'b95'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/openfoam',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/openfoam', '545'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/vpic',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/vpic', '258'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/vpic',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/vpic', 'ae1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/vpic-kokkos',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/vpic-kokkos', '0e9'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/vpic-kokkos',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/vpic-kokkos', 'cce'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/packages/wrf',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/packages/wrf', '0d6'),
+                path: '/spcai/docs/jarvis/jarvis-cd/packages/wrf',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/packages/wrf', '521'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/python-api',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/python-api', '755'),
+                path: '/spcai/docs/jarvis/jarvis-cd/python-api',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/python-api', '68e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/resource-graph',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/resource-graph', 'b99'),
+                path: '/spcai/docs/jarvis/jarvis-cd/resource-graph',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/resource-graph', 'b48'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/schedulers',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/schedulers', 'c04'),
+                path: '/spcai/docs/jarvis/jarvis-cd/schedulers',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/schedulers', '18a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-cd/virtualization',
-                component: ComponentCreator('/docs/jarvis/jarvis-cd/virtualization', '89f'),
+                path: '/spcai/docs/jarvis/jarvis-cd/virtualization',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-cd/virtualization', 'e8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-util/argument-parsing',
-                component: ComponentCreator('/docs/jarvis/jarvis-util/argument-parsing', 'bb8'),
+                path: '/spcai/docs/jarvis/jarvis-util/argument-parsing',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-util/argument-parsing', 'b36'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-util/builtin-wrappers',
-                component: ComponentCreator('/docs/jarvis/jarvis-util/builtin-wrappers', '6e8'),
+                path: '/spcai/docs/jarvis/jarvis-util/builtin-wrappers',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-util/builtin-wrappers', 'f5c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-util/hostfile',
-                component: ComponentCreator('/docs/jarvis/jarvis-util/hostfile', '06c'),
+                path: '/spcai/docs/jarvis/jarvis-util/hostfile',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-util/hostfile', 'c3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-util/index',
-                component: ComponentCreator('/docs/jarvis/jarvis-util/index', 'ba4'),
+                path: '/spcai/docs/jarvis/jarvis-util/index',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-util/index', '13e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/jarvis/jarvis-util/program-execution',
-                component: ComponentCreator('/docs/jarvis/jarvis-util/program-execution', 'ed0'),
+                path: '/spcai/docs/jarvis/jarvis-util/program-execution',
+                component: ComponentCreator('/spcai/docs/jarvis/jarvis-util/program-execution', '5a1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -602,8 +602,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '578'),
+    path: '/spcai/',
+    component: ComponentCreator('/spcai/', '3cc'),
     exact: true
   },
   {

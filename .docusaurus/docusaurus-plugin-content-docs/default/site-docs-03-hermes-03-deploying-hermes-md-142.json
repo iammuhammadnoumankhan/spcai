@@ -5,7 +5,7 @@
   "source": "@site/docs/03-hermes/03-deploying-hermes.md",
   "sourceDirName": "03-hermes",
   "slug": "/hermes/deploying-hermes",
-  "permalink": "/docs/hermes/deploying-hermes",
+  "permalink": "/spcai/docs/hermes/deploying-hermes",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Building Hermes",
-    "permalink": "/docs/hermes/building-hermes"
+    "permalink": "/spcai/docs/hermes/building-hermes"
   },
   "next": {
     "title": "Configuration",
-    "permalink": "/docs/hermes/configuration"
+    "permalink": "/spcai/docs/hermes/configuration"
   }
 }

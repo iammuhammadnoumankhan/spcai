@@ -1,6 +1,6 @@
 {
   "type": "mdx",
-  "permalink": "/about",
+  "permalink": "/spcai/about",
   "source": "@site/src/pages/about.mdx",
   "title": "About",
   "description": "Vision",
