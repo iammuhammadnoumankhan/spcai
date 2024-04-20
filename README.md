@@ -1,2 +1,0 @@
-# spcai
-website for spcai 
